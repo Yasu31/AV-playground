@@ -1,1 +1,1 @@
-# audio-autoencoder
+# Audio & Visual Playground
